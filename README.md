@@ -34,7 +34,8 @@ git clone https://github.com/happy-se-life/import-kindle-notebook-to-notion.git
 
 ## How to use
 
-1. Read book using kindle app and make notebook.
+1. Read book using kindle app and make notebook.  
+<img src="./images/notebook_iphone.png" width="320px">
 
 2. Export notebook as html. Save html to above folder.
 
